@@ -50,3 +50,13 @@ Create relationships between tables (if multiple datasets)
 KPIs: Total Sales, Orders, Customers, Avg. Order Value
 
 Charts: Line (sales over time), Bar (category sales), Pie (region share), Map (geo sales)
+
+# 🎯 Key Insights
+
+Peak sales occur during weekends and evenings
+
+Beverages and Snacks are top-selling categories
+
+Most customers are repeat buyers, showing strong retention
+
+Delivery times are improving, but certain cities still face delays
