@@ -16,3 +16,15 @@ The Blinkit Dashboard provides insights into Blinkit’s (online grocery deliver
 ⏱️ Delivery Insights – Average delivery time, on-time delivery %
 
 📍 Geographic Trends – Sales distribution across regions/cities
+
+# 🛠️ Tech Stack
+
+Data Source: Blinkit Dataset (CSV/SQL/Excel)
+
+Tools:
+
+Power BI / Tableau (for visualization)
+
+Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)
+
+Database: MySQL / PostgreSQL (if using live data)
