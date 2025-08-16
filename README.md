@@ -31,21 +31,21 @@ Database: MySQL / PostgreSQL (if using live data)
 
 # Setup Instructions
 
-Get the Dataset
+# Get the Dataset
 
 Use Blinkit sales dataset (CSV/Excel/SQL)
 
 Clean & preprocess the data (handle missing values, date formatting, etc.)
 
-Data Processing (if using Python)
+# Data Processing (if using Python)
 
-Load into BI Tool
+# Load into BI Tool
 
 Import dataset into Power BI / Tableau
 
 Create relationships between tables (if multiple datasets)
 
-Build Dashboard
+# Build Dashboard
 
 KPIs: Total Sales, Orders, Customers, Avg. Order Value
 
